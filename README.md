@@ -14,5 +14,6 @@ In order to work with this data, it is important to have the correct packages an
    *Note*: Make sure to replace the phrase `your_env_name` with an environment name of your choosing before running this command
 2. After running that command once it has finished running, run this next command to activate your environment:
     `conda activate cmip6`
+
 At this point, you will have successfully created your environment and you can start running the code featured on these notebooks. If you run into any issue with any of the packages not being properly installed, we recommend running the command `pip install package_name`.
 *Note*: make sure to replace the phrase `package_name` with the package that you are missing to ensure correct installation of that package.
